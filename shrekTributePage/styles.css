@@ -1,0 +1,36 @@
+h1 {
+    font-family: Roboto, sans-serif;
+    font-size: 4rem;
+    margin-bottom: 0;
+    background-color: #C3BC95;
+    margin-top: 20px;
+}
+
+p {
+    background-color: #C3BC95;
+    margin-top: 0;
+    padding: 10px;
+    text-align: center;
+}
+
+body {
+    font-family: Roboto, sans-serif;
+    text-align: center;
+    line-height: 1.1;
+    background-color: #C3BC95;
+}
+
+img {
+    max-width: 50%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}
+
+#shrekimageCaption {
+    font-size: 15px;
+}
+
+#tributeInfo p {
+    line-height: 1.8;
+}
